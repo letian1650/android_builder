@@ -28,5 +28,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: my-build-apk
-          path: ./**/leanback-python-arm64_v8a.apk.apk
+          path: ./**/leanback-python-arm64_v8a.apk
 
